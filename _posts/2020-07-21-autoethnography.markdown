@@ -5,7 +5,9 @@ date:   2020-07-21 17:35:40 -0700
 categories: 
 ---
 
-Add some context here
+For the senior English course I teach called Literature, Culture, and Society, I ask students to write an autoethnography.
+
+Before asking students to write their own narratives, I shared mine with the class.
 
 
 ## Mr. McClellan’s autoethnography (title forthcoming!)
