@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 
 ### Digital history / data viz
-As a grad student I created a project applying various digital humanities tools and approaches to do a "distant reading" of salve narratives in UNC's "Documenting the American South" online library.
+As a grad student I created a project applying various digital humanities tools and approaches to do a "distant reading" of slave narratives in UNC's "Documenting the American South" online library.
 - [Topic Modeling Equiano and the Slave Narrative Genre](http://dighist.fas.harvard.edu/courses/2015/HIST1993/exhibits/show/modeling-equiano/project-overview)
 
 ### Harvard Kennedy School
